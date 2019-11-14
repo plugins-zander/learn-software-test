@@ -64,10 +64,11 @@
         * [系统测试](books/1031.md)
         * [确认测试](books/1032.md)
         * [验收测试](books/1033.md)
+    * [面向对象测试](books/1078.md)
 * [测试工具](books/1034.md)
     * [QTR](books/1035.md)
     * [LoadRunner](books/1036.md)
 * [测试管理](books/1037.md)
 * [质量保证](books/1038.md)
-* [end](books/1078.md)
+* [end1079](books/1999.md)
 
